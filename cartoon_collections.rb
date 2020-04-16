@@ -16,4 +16,5 @@ def find_valid_calls(planeteer_calls)
     if planeteer_calls.include?(ele)
       return TRUE
     end
+  end
 end
